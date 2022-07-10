@@ -17,3 +17,7 @@ export const LeftSection = styled.div`
     margin: 0 auto;
   }
 `;
+
+export const LearnMoreText = styled.div`
+padding-top: 1rem; 
+font-size 30px;`;
