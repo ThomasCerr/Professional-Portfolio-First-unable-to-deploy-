@@ -14,8 +14,9 @@ const Hero = (props) => (
   </SectionTitle>
   <SectionText>
   My name is Thomas Cerreto and I am currently a Data Analyst for a top insurance company in Richmond, Genworth
-        Financial. I have a heavy background in statistics, analytics, finance, with tuned skills in Microsoft Excel VBA
-        and SQL. My ultimate goal is to incorprate my technical developer skills into a new role.
+        Financial. I have a heavy background in statistics, analytics, and finance. Recently earned a certificate 
+        in full stack web development from the University of Richmond, with skills in HTML5/CSS3, JavaScript, Node.js, 
+        Express.js, React.js, and responsive web design.
   </SectionText>
   <Button>
     <LinkItem  href="mailto:thomasc2@vt.edu">
