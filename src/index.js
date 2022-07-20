@@ -1,4 +1,5 @@
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import BgAnimation from './components/BackgrooundAnimation/BackgroundAnimation';
 import Hero from './components/Hero/Hero';
 import Projects from './components/Projects/Projects';
